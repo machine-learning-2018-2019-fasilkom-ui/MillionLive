@@ -1,0 +1,84 @@
+ranking_idol,appearing_idol_1,appearing_idol_2,appearing_idol_3,appearing_idol_4,event_type,start,duration,t1_cutoff,t2_cutoff,t3_cutoff
+kitazawa shiho,nonohara akane,hakozaki serika,mogami shizuka,kitakami reika,theater,201708,9,151347,67477,45991
+takatsuki yayoi,nakatani iku,yabuki kana,ogami tamaki,,theater,201709,11,103398,54179,43411
+nanao yuriko,makabe mizuki,mochizuki anna,ibuki tsubasa,kasuga mirai,theater,201709,11,135591,56477,41397
+mogami shizuka,shiraishi tsumugi,kitazawa shiho,julia,tokoro megumi,tour,201710,11,371237,137697,83660
+momose rio,shimabara elena,shijou takane,shinomiya karen,handa roco,theater,201711,9,88037,44374,36350
+ibuki tsubasa,sakuramori kaori,mochizuki anna,hakozaki serika,kitakami reika,tour,201711,9,207072,72108,51044
+futami mami,satake minako,baba konomi,nakatani iku,kinoshita hinata,theater,201712,8,87912,41800,33099
+kasuga mirai,tokugawa matsuri,nanao yuriko,emily stewart,yabuki kana,tour,201712,9,284240,79122,55386
+matsuda arisa,suou momoko,amami haruka,yokoyama nao,fukuda noriko,theater,201801,7,123222,54202,40630
+nikaido chizuru,tenkubashi tomoka,momose rio,tokoro megumi,,tour,201801,7,161014,68412,52578
+minase iori,futami ami,takatsuki yayoi,ganaha hibiki,akizuki ritsuko,theater,201801,8,197135,69542,5152
+shimabara elena,miyao miya,,,,tour,201802,9,303366,93871,59697
+hoshi miki,nagayoshi subaru,tenkubashi tomoka,takayama sayoko,nikaido chizuru,theater,201803,9,317690,96836,55568
+nakatani iku,nanao yuriko,matsuda arisa,,,tour,201803,8,149580,67752,52554
+tanaka kotoha,tokoro megumi,kousaka umi,miyao miya,ogami tamaki,theater,201804,8,362962,103541,57721
+makabe mizuki,kitazawa shiho,shiraishi tsumugi,,,tour,201804,9,394587,114120,64842
+maihama ayumu,miura azusa,hagiwara yukiho,yabuki kana,maihama ayumu,theater,201805,8,102704,55400,46603
+sakuramori kaori,toyokawa fuuka,baba konomi,kitakami reika,,tour,201805,9,394538,112870,67280
+emily stewart,julia,kisaragi chihaya,tokugawa matsuri,toyokawa fuuka,theater,201806,8,166854,75049,51818
+takayama sayoko,kousaka umi,satake minako,yokoyama nao,fukuda noriko,tour,201806,8,206680,89168,57601
+nagayoshi subaru,shinomiya karen,nanao yuriko,tokoro megumi,,tour,201807,9,193671,91396,60645
+yabuki kana,ibuki tsubasa,shimabara elena,satake minako,kinoshita hinata,theater,201808,9,145371,72238,52361
+kousaka umi,tokoro megumi,kasuga mirai,yokoyama nao,toyokawa fuuka,tour,201808,9,276096,96842,59450
+tenkubashi tomoka,kitakami reika,mogami shizuka,takayama sayoko,maihama ayumu,theater,201809,8,290383,108114,58793
+sakuramori kaori,mochizuki anna,mogami shizuka,momose rio,miyao miya,tour,201809,8,343241,104320,59154
+hakozaki serika,kasuga mirai,tanaka kotoha,toyokawa fuuka,matsuda arisa,theater,201810,9,249112,90199,55344
+tanaka kotoha,suou momoko,shiraishi tsumugi,baba konomi,makabe mizuki,tour,201810,9,814482,188906,77432
+ogami tamaki,futami mami,,,,theater,201811,8,139831,65452,51018
+julia,mogami shizuka,,,,tour,201811,8,348456,106442,59420
+ganaha hibiki,yokoyama nao,mochizuki anna,kasuga mirai,toyokawa fuuka,theater,201812,9,198303,76067,52463
+shinomiya karen,nonohara akane,ibuki tsubasa,,,tour,201812,8,202090,92868,71596
+tokoro megumi,makabe mizuki,maihama ayumu,,,theater,201901,8,286453,109531,71607
+tokugawa matsuri,emily stewart,,,,tour,201901,8,339632,110872,60255
+mochizuki anna,nanao yuriko,,,,theater,201902,9,515959,144266,61623
+handa roco,maihama ayumu,suou momoko,nagayoshi subaru,,tour,201902,8,261305,82652,54611
+fukuda noriko,satake minako,ibuki tsubasa,,,theater,201903,7,138509,63137,50561
+kinoshita hinata,hakozaki serika,mochizuki anna,ogami tamaki,,tour,201904,7,152860,67806,51646
+shiraishi tsumugi,julia,sakuramori kaori,kikuchi makoto,nonohara akane,theater,201904,9,284359,99038,56715
+kasuga mirai,yabuki kana,tanaka kotoha,,,tour,201904,8,179678,67929,50890
+nagayoshi subaru,mogami shizuka,nanao yuriko,,,theater,201905,9,204887,75940,52066
+amami haruka,kisaragi chihaya,hoshi miki,takatsuki yayoi,minase iori,tour,201905,9,375723,112226,60080
+nonohara akane,handa roco,,,,theater,201906,8,149545,64197,50413
+toyokawa fuuka,momose rio,sakuramori kaori,baba konomi,nikaido chizuru,tour,201906,8,225264,79118,53628
+nanao yuriko,nagayoshi subaru,mochizuki anna,makabe mizuki,handa roco,tour,201906,7,368214,95716,55240
+yokoyama nao,kinoshita hinata,emily stewart,,,theater,201908,9,157605,67307,51486
+hagiwara yukiho,hoshi miki,minase iori,kikuchi makoto,,tour,201908,8,246613,82722,54298
+yabuki kana,kitakami reika,makabe mizuki,shinomiya karen,satake minako,theater,201909,8,134854,63239,50993
+hakozaki serika,suou momoko,ganaha hibiki,tokugawa matsuri,nagayoshi subaru,tour,201909,8,261998,84200,57190
+akizuki ritsuko,shinomiya karen,,,,theater,201910,8,224714,87764,56761
+kisaragi chihaya,hoshi miki,amami haruka,kikuchi makoto,emily stewart,tour,201910,8,357884,106322,62276
+kitakami reika,takayama sayoko,julia,,,theater,201911,7,217011,74204,51325
+baba konomi,momose rio,,,,tour,201911,8,377046,101742,59760
+shijou takane,kousaka umi,tokugawa matsuri,miyao miya,,theater,201912,8,233735,78558,51944
+miura azusa,kisaragi chihaya,shijou takane,,,tour,201912,8,189490,75450,55012
+suou momoko,kinoshita hinata,julia,ogami tamaki,fukuda noriko,theater,202001,9,333190,95719,55512
+emily stewart,shiraishi tsumugi,tenkubashi tomoka,,,tour,202001,8,454786,109924,60664
+miyao miya,tokugawa matsuri,kasuga mirai,,,theater,202002,8,195047,68940,51325
+satake minako,yokoyama nao,,,,tour,202002,8,244526,80558,55524
+kikuchi makoto,maihama ayumu,,,,theater,202003,8,177130,67399,50985
+ganaha hibiki,ibuki tsubasa,leon,shika,,twin,202003,8,570438,243386,171820
+matsuda arisa,akizuki ritsuko,satake minako,kinoshita hinata,,theater,202004,8,115723,59119,50230
+nonohara akane,shimabara elena,sakuramori kaori,kitazawa shiho,nikaido chizuru,tour,202004,8,236591,78993,55952
+futami ami,baba konomi,nagayoshi subaru,nonohara akane,,theater,202005,8,100428,57365,50193
+maihama ayumu,fukuda noriko,kousaka umi,shimabara elena,,tour,202005,8,140350,67087,52724
+kisaragi chihaya,mogami shizuka,,,,theater,202005,9,427005,104068,55830
+shinomiya karen,hakozaki serika,miyao miya,kinoshita hinata,,tour,202006,7,166726,67000,51652
+kitazawa shiho,sakuramori kaori,tanaka kotoha,tokugawa matsuri,,tour,202007,8,456187,102457,60136
+fukuda noriko,satake minako,kousaka umi,takayama sayoko,yokoyama nao,theater,202008,8,189815,79446,54564
+takatsuki yayoi,amami haruka,ganaha hibiki,,,tour,202008,8,174520,71222,52988
+minase iori,emily stewart,,,,theater,202009,8,156614,63429,50564
+ogami tamaki,nakatani iku,suou momoko,,,tour,202009,9,273756,85580,57956
+nikaido chizuru,hagiwara yukiho,,,,theater,202010,8,131359,61684,50532
+kitakami reika,nonohara akane,,,,tour,202010,8,200517,71732,52894
+mogami shizuka,julia,,,,theater,202011,8,256198,79486,53025
+Ichinose Shiki,Miyamoto Fredrica,shimabara elena,miyao miya,,twin,202011,8,615144,233036,143101
+mochizuki anna,yabuki kana,,,,theater,202012,9,209014,70738,51665
+kousaka umi,miura azusa,nakatani iku,,,tour,202012,7,256274,100409,71080
+kasuga mirai,mogami shizuka,ibuki tsubasa,,,theater,202001,8,138514,67057,51612
+baba konomi,kitakami reika,sakuramori kaori,toyokawa fuuka,,theater,202002,9,336081,102391,59481
+kousaka umi,matsuda arisa,yabuki kana,,,tour,202002,8,331117,78262,53674
+tenkubashi tomoka,nikaido chizuru,shinomiya karen,,,theater,202003,8,121427,58140,48582
+futami mami,akizuki ritsuko,futami ami,,,tour,202003,7,92580,57195,48517
+nanao yuriko,handa roco,hakozaki serika,tenkubashi tomoka,matsuda arisa,theater,202004,9,130822,58741,46625
